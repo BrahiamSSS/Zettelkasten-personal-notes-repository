@@ -1,6 +1,6 @@
 ---
 Autor: 
-Publish date:
+Publish date: 
 ---
 # Quote:
 >  Quote from the origin work

@@ -1,7 +1,7 @@
 ---
 Autor:  
 Publish date:  
-Type of work:
+Type of work: 
 Subject: 
 ---
 # Main idea of the note:
@@ -10,7 +10,7 @@ Subject:
 > Quote 1
 > Quote 2
 > Quote 3
-# Refections:
+# Personal thoughts:
 - Personal thoughts about the work
 - Relation into this note and the other ones
 # Links:
