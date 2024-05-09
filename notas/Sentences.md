@@ -17,12 +17,13 @@ The following video teach us deeply what is a sentence.
 
 # Important quotes:
 > A sentences is a grammatically
-> complete complete idea.
+> complete idea.
 > - Khan Academy
 # Personal thoughts:
 The sentences is a main idea in the way of learning a new
 language, because is related with writing ability, and Excellent
 writing ability improve our comprehension of the language grammar.
 # Links:
--  
--  
+- [[Articles.md|Articles]] 
+- [[Alphabet.md|Alphabet]]
+- [[Nouns.md|Nouns]]
