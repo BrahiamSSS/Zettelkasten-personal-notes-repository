@@ -1,6 +1,6 @@
 ---
 Autor: 
-Fecha de publicacion:
+Fecha de publicacion: 
 ---
 # Cita:
 > Texto extraido de la obra
