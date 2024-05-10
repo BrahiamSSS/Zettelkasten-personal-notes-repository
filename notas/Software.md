@@ -27,3 +27,4 @@ el computador realiza procesos e instrucciones internamente.
 - [[Hardware.md|Hardware]] 
 - [[Sistema-binario.md|Sitema binario]]
 - [[Bits-y-bytes.md|Bits y bytes]]
+- [[Archivos.md|Archivos]]
