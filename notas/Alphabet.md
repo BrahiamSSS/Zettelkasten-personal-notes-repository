@@ -22,4 +22,4 @@ The alphabet is the foundations of learning a new language, because
 it's the building block for all words, sentences and ideas that we
 use in this new language.
 # Links:
-- [[Sentences.md|Sentences]]
+- [[Articles.md|Articles]]
