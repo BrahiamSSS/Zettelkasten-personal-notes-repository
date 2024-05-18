@@ -23,10 +23,7 @@ The following video teach us deeply what is a sentence.
 The sentences is a main idea in the way of learning a new
 language, because is related with writing ability, and Excellent
 writing ability improve our comprehension of the language grammar.
-# Links:
-- [[Articles.md|Articles]] 
-- [[Adjectives.md|Adjectives]]
-- [[Nouns.md|Nouns]]
-- [[There-is-and-there-are.md|There is and there are]]
+# Links
 - [[Negative-Statements|Negative Statements]] 
 - [[Wh-questions.md|Wh questions]] 
+- [[There-is-and-there-are.md|There is and there are]]  

@@ -25,6 +25,5 @@ are.
 There is and there are allow us to talk about the existence of nouns 
 in sentences and how many of these nouns we have.
 # Links:
-- [[Sentences.md|Sentences]]
 - [[Plural-forms.md|Plural form]]
-- [[Basic-numbers.md|Basic numbers]] 
+ 

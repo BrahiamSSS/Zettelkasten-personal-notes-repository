@@ -22,4 +22,4 @@ one to one hundred.
 Numbers unlock the ability to do math in the new language, and it's make more easy express how many things we have or we need in other language.
 # Links:
 - [[Plural-forms.md|Plural form]]
-- [[There-is-and-there-are.md|There is and there are]]
+- [[There-is-and-there-are.md|There is and there are]] 

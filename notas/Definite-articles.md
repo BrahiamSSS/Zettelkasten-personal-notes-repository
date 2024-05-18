@@ -21,4 +21,4 @@ article before the noun.
 Definite articles are a simple way to express the idea of specific noun 
 in a sentence.
 # Links:
-- [[Articles.md|Articles]]
+- [[Sentences.md|Sentences]]

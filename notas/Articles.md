@@ -1,5 +1,5 @@
 ---
-Autor: Ellii  
+Autor: YouTube channel, Ellii  
 Publish date: 04/11/2020  
 Type of work: Video
 Subject: English articles 
@@ -24,3 +24,4 @@ are thinking and it this nouns are part of general group or not.
 # Links:
 - [[Indefinite-articles.md|Indefinite articles]]
 - [[Definite-articles.md|Definite articles]]
+- [[Sentences.md|Sentences]] 

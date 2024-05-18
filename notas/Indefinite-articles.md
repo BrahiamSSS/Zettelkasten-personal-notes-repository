@@ -29,5 +29,4 @@ article before the noun.
 The indefinite articles one of the basic components for
 creation of sentences. 
 # Links:
-- [[Articles.md|Articles]]
-- [[Alphabet.md|Alphabet]]
+- [[Sentences.md|Sentences]] 

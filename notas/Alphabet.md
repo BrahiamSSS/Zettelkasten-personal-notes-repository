@@ -23,3 +23,5 @@ it's the building block for all words, sentences and ideas that we
 use in this new language.
 # Links:
 - [[Articles.md|Articles]]
+- [[Sentences.md|Sentences]] 
+- [[Indefinite-articles.md|Indefinite articles]]

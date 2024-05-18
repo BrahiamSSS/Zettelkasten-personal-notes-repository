@@ -40,6 +40,4 @@ referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 The possesive adjective is other tool that make more complete 
 and rich the sentences that we write and improves the communication. 
 # Links:
-- Note 1
-- Note 2
-- Note 3
+- [[Sentences.md|Sentences]]
