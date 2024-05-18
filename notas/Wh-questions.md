@@ -39,6 +39,6 @@ Wh-question is a excellent tool for our languages toolbox because is
 a great way to get specific information about other people and things
 that they known and I don't known.
 # Links:
-- Note 1
+- [[Basic-questions.md|Basic questions]]
 - Note 2
 - Note 3

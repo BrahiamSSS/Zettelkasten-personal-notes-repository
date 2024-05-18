@@ -32,5 +32,4 @@ we needed to start write correct sentences in English.
 # Links:
 - [[Nouns.md|Nouns]]
 - [[Definite-articles.md|Nouns]]
-- [[There-is-and-there-are.md|There is and there are]]
 - [[Basic-numbers.md|Basic numbers]]
